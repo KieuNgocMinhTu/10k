@@ -1,5 +1,8 @@
 const texts = [
     "I Love You",
+    "I Love You",
+    'I Love You",
+    'Yeu Anh Rat Nhieu",
 ];
 
 const scene = document.getElementById("scene");
